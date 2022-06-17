@@ -3,8 +3,8 @@
 ![es una imagen](https://media-exp2.licdn.com/dms/image/C4E16AQHatHFjAKyflw/profile-displaybackgroundimage-shrink_350_1400/0/1645984836663?e=1660780800&v=beta&t=CUGwl-jm-hIT1XPN1K_yKJScPt9fd_2Pnig6Y3D3eOo)
 
 ## 🌍 find me around  the web:
-- [Linkedin](https://www.linkedin.com/in/jose-colmenares-480074233/)
-- [Twitter](https://twitter.com/Joseee_andresss)
+- [![esta es una img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-colmenares-480074233/)
+- [![esto es twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Joseee_andresss)
 
 I'm a young web developer student, looking to break into tech. I like to learn new technologies, being part of communities and curious about crypto.
 
