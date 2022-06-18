@@ -20,26 +20,21 @@ I like to exercise
  - [Proyecto Country](https://client-rose-phi.vercel.app/)
  
  ![proyecto Country](https://user-images.githubusercontent.com/70913085/174387005-56228ac8-1fb6-4490-99a1-14f9ec3d59d6.png)
- se trata de una SPA (Single Page Application) utilizando React para el Front Ent y Redux como state management. Todos los componentes fueron desarrollados con CSS sin ninguna libreria externa.
-la SPA consume datos de una API https://spoonacular.com/ a través de un Back End desarrollado en Node.js utilizando Express, agregando nuevas funcionalidades a la API original.
-Algunos features del proyecto: Cache de busquedas, ordenamiento y filtros, formularios controlado para creacion de recetas.
+ it is a SPA (Single Page Application) using React for the Front Ent and Redux as state management. All components were developed with CSS without external library.
+the SPA consumes data from an API https://spoonacular.com/ through a Back End developed in Node.js using Express, adding new features to the original API.
+Some features of the project: Search cache, sorting and filters, controlled forms for creating recipes.
 
 
 - [Finder](https://finder-app-omega.vercel.app/)
 
 ![Finder](https://user-images.githubusercontent.com/70913085/174387370-c7246aad-0c42-4765-b9d2-9dd51298afef.png)
 
-Finder es una aplicacion que te facilita la busqueda de personas que ofrecen un servicio y tambien ayuda a las personas que estan en busqueda laboral.
-esta aplicacion fue realizada en equipo donde implimentamos la metodologia  Scrum
+Finder is an application that makes it easy for you to find people who offer a service and also helps people who are looking for a job.
+This application was carried out in a team where we implemented the Scrum methodology
 
 ##  🎯 some technologies I use:
 
 ![icono](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![icono](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
