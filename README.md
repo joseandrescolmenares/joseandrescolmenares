@@ -1,15 +1,21 @@
 ## Hi there, I'm Jose 👋
 
-## I am a software engineer
+## I am a software engineer 👨🏼‍💻
 
 I am a highly motivated software engineer who is passionate about solving problems through technology.
 
 * 🤓 I'm always trying to learn something new
 * 🤯 I like to learn about startups                                            
 * 💬 I like to create content 
+
+
+## Connect with me
+
+[Linkedin](https://www.linkedin.com/in/jose-colmenares-480074233/)
+
+ ## Languages and Tools:
  
 
- 
 
 <!---
 joseandrescolmenares/joseandrescolmenares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
