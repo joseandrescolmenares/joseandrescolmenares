@@ -11,7 +11,7 @@ I am a highly motivated software engineer who is passionate about solving proble
 
 ## Connect with me
 
-<a> <img src=""/></a>
+<a href="https://www.linkedin.com/in/jose-colmenares-480074233/"> <img src="https://user-images.githubusercontent.com/70913085/218813259-2ecf5d76-fd59-4497-925d-d860d0ad4b83.png" width="45px"/></a>
 
  ## Languages and Tools:
  
