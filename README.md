@@ -7,7 +7,6 @@ I am a highly motivated software engineer who is passionate about solving proble
 ![presentador](https://user-images.githubusercontent.com/70913085/219763849-2c7b8af7-4508-467a-af20-cd679615fd34.gif)
 
 
-
 * 🤓 I'm always trying to learn something new
 * 🤯 I like to learn about startups                                            
 * 💬 I like to create content 
