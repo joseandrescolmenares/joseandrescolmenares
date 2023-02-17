@@ -4,6 +4,9 @@
 
 I am a highly motivated software engineer who is passionate about solving problems through technology.
 
+
+
+
 * 🤓 I'm always trying to learn something new
 * 🤯 I like to learn about startups                                            
 * 💬 I like to create content 
