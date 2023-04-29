@@ -1,7 +1,5 @@
 ## Hi there, I'm Jose 👋
 
-![presentador](https://user-images.githubusercontent.com/70913085/219763849-2c7b8af7-4508-467a-af20-cd679615fd34.gif)
-
 ## I am a software engineer 👨🏼‍💻
 
 I am a highly motivated software engineer who is passionate about solving problems through technology.
